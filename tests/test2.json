@@ -1,0 +1,4 @@
+{
+    "students": ["rohan", "satyen"],
+    "marks": [{"math": 10, "english": 20}, {"math": 20, "english": 50}]
+}

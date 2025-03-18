@@ -1,0 +1,9 @@
+{
+    "employees": ["Alice", "Bob", "Charlie"],
+    "details": [
+        {"age": 25, "department": "HR", "salary": 50000},
+        {"age": 30, "department": "IT", "salary": 70000},
+        {"age": 28, "department": "Finance", "salary": 65000}
+    ],
+    "joined_dates": ["2022-01-15", "2021-12-01", "2023-03-20"]
+}

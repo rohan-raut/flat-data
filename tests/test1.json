@@ -1,0 +1,32 @@
+[
+    {
+        "team": "Dot Net",
+        "detail": [
+            {
+                "type": "Dot Net Dev",
+                "members": ["Rohan", "Shriyash"],
+                "salary": [25000, 35000]
+            },
+            {
+                "type": "Dot Net Test",
+                "members": ["Shravani", "Komal", "Satyen"],
+                "salary": [30000, 40000, 50000]
+            }
+        ]
+    },
+    {
+        "team": "Python",
+        "detail": [
+            {
+                "type": "Python Dev",
+                "members": ["Anushka", "Pranjal"],
+                "salary": [22000, 36000]
+            },
+            {
+                "type": "Python Test",
+                "members": ["Pratham", "Amol", "Manjiri"],
+                "salary": [52000, 67000, 24000]
+            }
+        ]
+    }
+]
