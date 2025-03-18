@@ -1,3 +1,4 @@
-build/
-dist/
-flat_data.egg.info/
+/build
+/dist
+/flat_data.egg.info
+build_script.txt
